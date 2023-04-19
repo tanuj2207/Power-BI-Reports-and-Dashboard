@@ -3,4 +3,4 @@
 
 # Dashboard 📊
 
-![alt text](https://github.com/tanuj2207/Power-BI-Reports-and-Dashboard/blob/main/BANK%20MARKETING%20CAMPAIGN%20ANALYSIS/Bank%20Marketing%20Analysis.pdf)
+![PDF Image](https://github.com/tanuj2207/Power-BI-Reports-and-Dashboard/blob/main/BANK%20MARKETING%20CAMPAIGN%20ANALYSIS/Bank%20Marketing%20Analysis.pdf)
