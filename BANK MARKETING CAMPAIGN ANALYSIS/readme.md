@@ -3,4 +3,4 @@
 
 # Dashboard 📊
 
-https://app.powerbi.com/view?r=eyJrIjoiYzNlNjg1MDEtOWI0Mi00MWY3LTg5N2EtNzgxZjNkZWE0YmQ3IiwidCI6ImU1MjMxZmVjLTkzYTktNGNkOS1iYTIyLTJjMWUzN2MxOGZjMCJ9
+![alt text](https://app.powerbi.com/view?r=eyJrIjoiYzNlNjg1MDEtOWI0Mi00MWY3LTg5N2EtNzgxZjNkZWE0YmQ3IiwidCI6ImU1MjMxZmVjLTkzYTktNGNkOS1iYTIyLTJjMWUzN2MxOGZjMCJ9)
